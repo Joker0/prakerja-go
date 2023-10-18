@@ -1,1 +1,2 @@
 Ini text untuk menunjukkan implementasi push
+Ini text dari featureB 
