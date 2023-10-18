@@ -1,5 +1,5 @@
 Ini text dari featureA
 Ini text untuk menunjukkan implementasi push
-Ini text untuk menunjukkan implementasi push
 Ini text dari featureB 
 Perubahan ini akan di stash
+Ini text untuk mencoba git merge --no-ff
