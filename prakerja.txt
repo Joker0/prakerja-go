@@ -1,2 +1,3 @@
 Ini text untuk menunjukkan implementasi push
 Ini text dari featureB 
+Perubahan ini akan di stash
