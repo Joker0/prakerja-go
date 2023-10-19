@@ -17,3 +17,5 @@ Repository ini bertujuan untuk mengumpulkan tugas dari pelatihan prakerja "Berka
 ### Gambar Flowchart Luas Trapesium dan Bilangan Kelipatan 7
 
 ![Flowchart-Trapesium&Kelipatan7](<D1-Git/Flowchart (SESI 1)-Trapesium dan Kelipatan 7.drawio.png>)
+
+## Sesi Kedua (Basic Programming)
