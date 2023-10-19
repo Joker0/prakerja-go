@@ -8,12 +8,12 @@ Repository ini bertujuan untuk mengumpulkan tugas dari pelatihan prakerja "Berka
 
 ### Screenshot Network Insight
 
-> ![Screenshot-Network](<Network Graph Github.png>)
+![Screenshot-Network](<Network Graph Github.png>)
 
 ### Gambar Flowchart Bilangan Prima
 
-> ![Flowchart-BilanganPrima](<Flowchart (SESI 1)-Bilangan Prima.drawio.png>)
+![Flowchart-BilanganPrima](<Flowchart (SESI 1)-Bilangan Prima.drawio.png>)
 
 ### Gambar Flowchart Luas Trapesium dan Bilangan Kelipatan 7
 
-> ![Flowchart-Trapesium&Kelipatan7](<Flowchart (SESI 1)-Trapesium dan Kelipatan 7.drawio.png>)
+![Flowchart-Trapesium&Kelipatan7](<Flowchart (SESI 1)-Trapesium dan Kelipatan 7.drawio.png>)
